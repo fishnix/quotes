@@ -1,0 +1,4 @@
+symbols [ 'XX', 'YY', 'ZZ' ]
+graphite_host 'your.host.here'
+graphite_port 2003
+graphite_namespace 'your.graphite.namespace'
